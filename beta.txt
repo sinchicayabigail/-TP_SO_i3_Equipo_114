@@ -42,3 +42,45 @@ Adaptador de Ethernet Conexi¢n de red Bluetooth:
    Estado de los medios. . . . . . . . . . . : medios desconectados
    Sufijo DNS espec¡fico para la conexi¢n. . : 
 12:46
+
+
+Agustina Sánchez
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::5c45:54f3:9b4d:9bc7%7
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2802:8010:21af:4200:ad7d:3ad0:18a9:d610
+   Dirección IPv6 temporal. . . . . . : 2802:8010:21af:4200:50fb:eeea:b98e:a5e4
+   Vínculo: dirección IPv6 local. . . : fe80::88e1:9362:a62b:1cb2%18
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.45
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::aec6:62ff:febd:1be0%18
+                                       192.168.1.1
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . : home
+
+20:50
