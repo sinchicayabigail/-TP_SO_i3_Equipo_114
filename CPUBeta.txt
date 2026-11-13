@@ -1,0 +1,66 @@
+﻿
+
+Availability                            : 3
+CpuStatus                               : 1
+CurrentVoltage                          : 12
+DeviceID                                : CPU0
+ErrorCleared                            : 
+ErrorDescription                        : 
+LastErrorCode                           : 
+LoadPercentage                          : 9
+Status                                  : OK
+StatusInfo                              : 3
+AddressWidth                            : 64
+DataWidth                               : 64
+ExtClock                                : 100
+L2CacheSize                             : 3072
+L2CacheSpeed                            : 
+MaxClockSpeed                           : 3301
+PowerManagementSupported                : False
+ProcessorType                           : 3
+Revision                                : 17409
+SocketDesignation                       : FP7
+Version                                 : Modelo 4, nivel 1
+VoltageCaps                             : 
+Caption                                 : AMD64 Family 25 Model 68 Stepping 1
+Description                             : AMD64 Family 25 Model 68 Stepping 1
+InstallDate                             : 
+Name                                    : AMD Ryzen 5 7535HS with Radeon Graphics        
+ConfigManagerErrorCode                  : 
+ConfigManagerUserConfig                 : 
+CreationClassName                       : Win32_Processor
+PNPDeviceID                             : 
+PowerManagementCapabilities             : 
+SystemCreationClassName                 : Win32_ComputerSystem
+SystemName                              : KEVABY
+CurrentClockSpeed                       : 3301
+Family                                  : 107
+OtherFamilyDescription                  : 
+Role                                    : CPU
+Stepping                                : 1
+UniqueId                                : 
+UpgradeMethod                           : 6
+Architecture                            : 9
+AssetTag                                : Unknown
+Characteristics                         : 252
+L3CacheSize                             : 16384
+L3CacheSpeed                            : 0
+Level                                   : 25
+Manufacturer                            : AuthenticAMD
+NumberOfCores                           : 6
+NumberOfEnabledCore                     : 6
+NumberOfLogicalProcessors               : 12
+PartNumber                              : Unknown
+ProcessorId                             : 178BFBFF00A40F41
+SecondLevelAddressTranslationExtensions : False
+SerialNumber                            : Unknown
+ThreadCount                             : 12
+VirtualizationFirmwareEnabled           : True
+VMMonitorModeExtensions                 : False
+PSComputerName                          : 
+CimClass                                : root/cimv2:Win32_Processor
+CimInstanceProperties                   : {Caption, Description, InstallDate, Name...}
+CimSystemProperties                     : Microsoft.Management.Infrastructure.CimSystemProperties
+
+
+
