@@ -1,0 +1,1 @@
+Procesador	13th Gen Intel(R) Core(TM) i5-13420H, 2100 Mhz, 8 procesadores principales, 12 procesadores lógicos
