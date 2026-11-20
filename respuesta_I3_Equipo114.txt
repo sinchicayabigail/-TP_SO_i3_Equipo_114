@@ -9,3 +9,15 @@ git merge sanchez
 git branch -m master
 git push -u origin master
 git branch -a
+
+Agustina Sánchez
+RESPUESTAS DE GAMMA:
+d- Ambas ramas creadas por BETA y GAMMA quedaron desactualizadas.
+e- La rama creada por GAMMA no aparecía, los archivos CPU no aparecían en la carpeta de BETA y el último merge quedó incompleto (se incorporó beta.txt pero solo se veía lo escrito por BETA, las modificaciones de ALFA y GAMMA no estaban).
+f- Los comandos utilizados fueron:
+1. git fetch origin
+2. git checkout Sinchicay
+3. git pull origin Sinchicay
+4. git add .
+5. git commit -m "Gamma modifica beta.txt con sus datos"
+6. git push origin Sinchicay
