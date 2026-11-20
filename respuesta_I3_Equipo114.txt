@@ -1,0 +1,11 @@
+Abigail Sinchicay
+RESPUESTAS DE BETA:
+a- La rama master queda con todos los archivos y modificaciones realizadas por los integrantes del grupo. Contiene los archivos README.md, datos.txt, CPUAlfa.txt, CPUGamma.txt, CPUBeta.txt y beta.txt.
+b- Sí, pude ver todos los cambios que se realizaron
+c- Para poder hacer el merge tuve que utilizar los siguientes comandos:
+git checkout main
+git pull origin main
+git merge sanchez
+git branch -m master
+git push -u origin master
+git branch -a
