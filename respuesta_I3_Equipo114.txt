@@ -21,3 +21,19 @@ f- Los comandos utilizados fueron:
 4. git add .
 5. git commit -m "Gamma modifica beta.txt con sus datos"
 6. git push origin Sinchicay
+
+Danilo Rodriguez
+RESPUESTAS DE ALFA:
+g- los comandos que tuve que realizar para realizar el punto 8 utilice los siguientes comandos:
+Comandos ejecutados:
+cd ./-TP_SO_i3_Equipo_114
+git fetch
+git checkout Sinchicay
+git pull origin Sinchicay
+cat beta.txt
+echo -e "\n\nDanilo Rodriguez" >> beta.txt
+ipconfig >> beta.txt
+tail -n 35 beta.txt
+git add beta.txt
+git commit -m "ALFA: Agrego nombre, red y hora en beta.txt"
+git push origin Sinchicay
